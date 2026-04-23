@@ -9,6 +9,7 @@ Data understanding
 Visualization techniques
 Statistical insights
 Python data analysis workflow
+
 📂 Dataset Information
 
 The dataset used is the Iris Dataset, which contains measurements of iris flowers.
@@ -19,6 +20,7 @@ Sepal Width
 Petal Length
 Petal Width
 Species (Target variable)
+
 Classes:
 Setosa
 Versicolor
@@ -32,6 +34,7 @@ Identify patterns between features
 Visualize distributions and relationships
 Detect potential outliers
 Gain insights for classification problems
+
 🛠️ Tools & Technologies
 Python
 Pandas
@@ -60,12 +63,15 @@ Petal features are more useful for classification than sepal features
 Setosa is clearly separable from other classes
 Some overlap exists between Versicolor and Virginica
 No major missing data issues found
+
 📁 Project Structure
+
 Iris-EDA-Project/
 │
 ├── iris_analysis.ipynb
 ├── iris.csv
 ├── README.md
+
 🚀 How to Run
 Option 1: Jupyter Notebook
 jupyter notebook
@@ -73,9 +79,11 @@ jupyter notebook
 Then open:
 
 iris_analysis.ipynb
+
 Option 2: Google Colab
 Upload notebook
 Run cells sequentially
+
 📌 Learning Outcome
 
 This project helped improve understanding of:
@@ -84,12 +92,14 @@ Data preprocessing basics
 Visualization techniques
 Feature relationships in ML datasets
 Python data analysis workflow
+
 🔥 Future Improvements
 Apply classification models (KNN, Decision Tree)
 Perform feature engineering
 Add model evaluation metrics
 Build small ML pipeline
-👨‍💻 Author
 
+👨‍💻 Author
 Merub Amir
 Internship Project – Data Analysis / Machine Learning Practice
+Task : Beginners Level✅
