@@ -1,4 +1,5 @@
 📊 Iris Dataset Exploratory Data Analysis (EDA)
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the classic Iris dataset to understand data distribution, feature relationships, and basic statistical patterns.
@@ -12,7 +13,7 @@ Python data analysis workflow
 
 📂 Dataset Information
 
-The dataset used is the Iris Dataset, which contains measurements of iris flowers.
+The dataset used is the Iris Dataset, which contains measurements of iris flowers.The dataset is from the UCI Machine Learning Repository. It include 150 instances
 
 Features:
 Sepal Length
